@@ -17,10 +17,10 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   }));
 
-  it(`should have as title 'CEULP/ULBRA - LPWEB - Angular Starter'`, async(() => {
+  it(`should have as title 'Aplicativo Web'`, async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('CEULP/ULBRA - LPWEB - Angular Starter');
+    expect(app.title).toEqual('Aplicativo Web');
   }));
 
   it('should render title in a h1 tag', async(() => {

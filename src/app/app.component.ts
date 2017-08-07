@@ -8,7 +8,10 @@ import '../assets/css/style.css';
     styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
+    title: string;
+
     constructor() {
+        this.title = "Aplicativo Web";
     }
 
     ngOnInit(): void {
