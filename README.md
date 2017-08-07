@@ -1,9 +1,19 @@
 # angular-starter
+
+[![Build Status](https://travis-ci.org/jacksongomesbr/angular-starter.svg?branch=master)](https://travis-ci.org/jacksongomesbr/angular-starter)
+
 Software-base para desenvolvimento de aplicativos baseados em Angular, utilizado na disciplina de Linguagem de Programação para a Web do Departamento de Computação do CEULP/ULBRA - Palmas - TO
 
 ---
 
-Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version **1.2.7** e utiliza os seguintes recursos:
+
+* [Angular](https://angular.io/): framework de desenvolvimento web
+* [Bootstrap](https://v4-alpha.getbootstrap.com/): framework gráfico
+* [ng-bootstrap](https://ng-bootstrap.github.io/#/home): para utilizar o Bootstrap no Angular
+* [jQuery](https://jquery.com/): biblioteca JavaScript (necessária para o funcionamento do Bootstrap)
+* [tether](http://tether.io/): biblioteca JavaScript para posicionamento de objetos (necessária para o funcionamento de tooltips no Bootstrap)
+* [Font Awesome](http://fontawesome.io/): toolkit de ícones
 
 ## Servidor de Desenvolvimento
 
